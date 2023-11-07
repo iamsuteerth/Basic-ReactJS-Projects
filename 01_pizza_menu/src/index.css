@@ -41,7 +41,6 @@ body {
   /* Non-accessible color */
   color: #edc84b;
   /* color: #af8602; */
-
   text-transform: uppercase;
   text-align: center;
   font-size: 5.2rem;
@@ -59,7 +58,7 @@ body {
   height: 3px;
   width: 12rem;
   background-color: #edc84b;
-  position: absolute;
+  position:absolute;
   top: calc(50% - 1px);
 }
 
