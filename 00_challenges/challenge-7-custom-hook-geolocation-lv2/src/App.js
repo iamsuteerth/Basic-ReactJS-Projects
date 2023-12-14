@@ -23,8 +23,8 @@ function useGeolocation() {
         setIsLoading(false);
       },
     );
-    return { position, error, isLoading, getPosition };
   }
+  return { position, error, isLoading, getPosition };
 }
 
 export default function App() {
